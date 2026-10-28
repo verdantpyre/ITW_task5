@@ -68,4 +68,12 @@ pyinstaller --noconsole --onefile --add-data "models/model/used;models" gui.py
 main.py provides an in-terminal way for individual predictions  
 python main.py  
 
+### Prerequisites
+- Python 3.8+  
+- Required packages:  
+  pip install pandas==2.3.2 numpy==2.3.3 scikit-learn==1.7.2  
+
+## Technologies Used
+Python  
+numpy, pandas, scikit-learn, pyinstaller  
 
