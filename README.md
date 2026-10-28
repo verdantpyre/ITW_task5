@@ -77,3 +77,8 @@ python main.py
 Python  
 numpy, pandas, scikit-learn, pyinstaller  
 
+## Contributors
+aditya [dot] pranjal [dot] cse25 [at] itbhu [dot] ac [dot] in  
+saumil [dot] yadav [dot] cse25 [at] itbhu [dot] ac [dot] in  
+aditya [dot] aggarwal [dot] ee25 [at] itbhu [dot] ac [dot] in  
+arnav [dot] pundir [dot] cse25 [at] itbhu [dot] ac [dot] in  
